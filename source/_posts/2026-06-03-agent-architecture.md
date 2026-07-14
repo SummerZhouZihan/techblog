@@ -4,6 +4,7 @@ subtitle:   " \"如何在 LangGraph 等框架中选择主流程、Supervisor 与
 date:       2026-06-03 12:00:00
 author:     "Summer&GPT"
 banner_img: /img/head/image8.jpg
+index_img: /img/post-cover/agent-architecture-workflow-multi-agent.png
 math: true
 tags:
     - 科研

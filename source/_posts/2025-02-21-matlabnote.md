@@ -4,6 +4,7 @@ subtitle:   " \"MATLAB Learning Notes\""
 date:       2025-02-21 15:30:00
 author:     "Summer"
 banner_img: /img/head/image4.jpg
+index_img: /img/post-cover/matlab-learning-notes.png
 math: true
 tags:
     - 科研

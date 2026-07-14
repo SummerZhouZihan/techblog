@@ -4,6 +4,7 @@ subtitle:   " \"浅谈大模型推理阶段的确定性\""
 date:       2026-02-21 20:00:00
 author:     "Summer"
 banner_img: /img/head/image3.png
+index_img: /img/post-cover/temperature-zero-llm-determinism.png
 math: true
 tags:
     - 科研

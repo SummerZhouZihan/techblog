@@ -4,6 +4,7 @@ subtitle:   " \"计算机模拟课程笔记\""
 date:       2025-11-21 16:00:00
 author:     "Summer"
 banner_img: /img/head/image12.jpg
+index_img: /img/post-cover/monte-carlo-theory-applications.png
 math: true
 tags:
     - 课程笔记
@@ -2761,6 +2762,5 @@ $$
    $$
    - 若$ u < h(y) $，**接受$ y $**，作为伽马分布的样本；
    - 若$ u \geq h(y) $，**拒绝$ y $**，回到步骤1重新生成$ y $和$ u $。
-
 
 

@@ -4,6 +4,7 @@ subtitle:   " \"在 Windows 上同时访问浙江大学校内网和外网\""
 date:       2026-07-05 8:00:00
 author:     "Summer&GPT"
 banner_img: /img/head/image7.jpg
+index_img: /img/post-cover/zjuconnect-campus-external-networks.png
 math: true
 tags:
     - 科研

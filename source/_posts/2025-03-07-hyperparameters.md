@@ -4,6 +4,7 @@ subtitle:   " \"我们该如何选择超参数?\""
 date:       2025-03-07 20:00:00
 author:     "Summer"
 banner_img: /img/head/image6.jpg
+index_img: /img/post-cover/diagnosing-ml-results.png
 math: true
 tags:
     - 科研
@@ -228,7 +229,6 @@ plt.show()
 
 
 > 正在施工
-
 
 
 

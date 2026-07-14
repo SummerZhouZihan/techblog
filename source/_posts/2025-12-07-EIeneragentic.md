@@ -3,6 +3,7 @@ title:      "EnerAgentic：Multi-Agent Large Language Models for Assisting Scien
 date:       2025-12-07 22:00:00
 author:     "Summer"
 banner_img: /img/head/image10.png
+index_img: /img/post-cover/eneragentic-research-assistant.png
 math: true
 tags:
     - 科研

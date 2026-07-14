@@ -8,7 +8,7 @@
   },
   "scripts": {
     "clean": "hexo clean",
-    "build": "hexo generate",
+    "build": "hexo generate && node tools/copy-post-covers.js",
     "test:category-bar": "node tests/verify-category-bar.js",
     "test:giscus": "node tests/verify-giscus-comments.js",
     "test:site-branding": "node tests/verify-site-branding.js",
