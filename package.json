@@ -11,6 +11,7 @@
     "build": "hexo generate",
     "test:category-bar": "node tests/verify-category-bar.js",
     "test:giscus": "node tests/verify-giscus-comments.js",
+    "test:site-branding": "node tests/verify-site-branding.js",
     "server": "hexo server",
     "deploy": "hexo deploy"
   },
