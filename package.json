@@ -9,6 +9,7 @@
   "scripts": {
     "clean": "hexo clean",
     "build": "hexo generate",
+    "test:category-bar": "node tests/verify-category-bar.js",
     "server": "hexo server",
     "deploy": "hexo deploy"
   },
