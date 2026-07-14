@@ -3,7 +3,7 @@ title:      "蒙特卡洛理论及应用"
 subtitle:   " \"计算机模拟课程笔记\""
 date:       2025-11-21 16:00:00
 author:     "Summer"
-banner_img: /img/head/image6.jpg
+banner_img: /img/head/image12.jpg
 math: true
 tags:
     - 课程笔记

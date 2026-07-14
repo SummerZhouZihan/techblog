@@ -2,7 +2,7 @@
 title:      "EnerAgentic：Multi-Agent Large Language Models for Assisting Scientific Research Tasks in Integrated Energy Systems"
 date:       2025-12-07 22:00:00
 author:     "Summer"
-banner_img: /img/head/image6.jpg
+banner_img: /img/head/image10.png
 math: true
 tags:
     - 科研

@@ -1,9 +1,9 @@
 ---
 title:      "使用Clash与ZJUConnect同时访问内外网方法"
-subtitle:   " \"在 Windows 上同时访问浙江大学校内网和外网代理\""
+subtitle:   " \"在 Windows 上同时访问浙江大学校内网和外网\""
 date:       2026-07-05 8:00:00
 author:     "Summer&GPT"
-banner_img: /img/head/image6.jpg
+banner_img: /img/head/image7.jpg
 math: true
 tags:
     - 科研

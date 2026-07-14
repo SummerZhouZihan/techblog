@@ -3,7 +3,7 @@ title:      "从 Workflow 到 Multi-Agent：如何选择 Agent 项目架构"
 subtitle:   " \"如何在 LangGraph 等框架中选择主流程、Supervisor 与子 Agent\""
 date:       2026-06-03 12:00:00
 author:     "Summer&GPT"
-banner_img: /img/head/image6.jpg
+banner_img: /img/head/image8.jpg
 math: true
 tags:
     - 科研

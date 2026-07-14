@@ -76,9 +76,9 @@ search:
   content: true
   format: html
 
-marked:
-  prependRoot: true
-  postAsset: false
+markdown:
+  plugins:
+    - "@traptitech/markdown-it-katex"
 
 deploy:
   type: ""
