@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+node_modules/
+public/
+db.json
+.deploy_git/
+.cache/
+.jekyll-cache/
+npm-debug.log*
+.hexo-server.log
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*

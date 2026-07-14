@@ -1,0 +1,16 @@
+.markdown-body img,
+.post-content img {
+  max-width: 100%;
+  height: auto;
+}
+
+.summer-about-lang img {
+  display: block;
+  max-width: min(100%, 860px);
+  margin: 1.25rem auto;
+  border-radius: 6px;
+}
+
+.summer-about-lang h2 {
+  margin-top: 2rem;
+}
